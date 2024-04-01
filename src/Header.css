@@ -1,0 +1,12 @@
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-bottom: 1px solid #ddd;
+    padding: 20px;
+}
+
+i{color: blue;}
+svg {
+    fill: white; /* Change the fill color */
+  } 
